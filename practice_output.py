@@ -10,7 +10,7 @@ def print_with_line_break():
     Prints out the text, 'Hello world!' with a line break at the end
     """
     # write your code here
-    print("Hello world!\n")
+    print("Hello world!")
 
 
 def print_without_line_break():
